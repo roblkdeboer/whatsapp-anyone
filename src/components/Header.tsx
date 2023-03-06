@@ -12,9 +12,7 @@ export default function Header() {
           style={{ width: '2rem', marginRight: '1rem' }}
         />{' '}
         {/* App icon */}
-        <Typography variant="h1" gutterBottom>
-          h1. Heading
-        </Typography>
+        <Typography variant="h5">Whatsapp Anyone</Typography>
       </Toolbar>
     );
   };
