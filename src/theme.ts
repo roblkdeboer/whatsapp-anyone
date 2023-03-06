@@ -6,7 +6,7 @@ const theme = createTheme({
       main: '#1A365D', // change the primary color to dark grey
     },
     secondary: {
-      main: '#ff0000', // change the secondary color to red
+      main: '#2B6CB0', // change the secondary color to red
     },
   },
 });
